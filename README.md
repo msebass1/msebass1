@@ -6,10 +6,7 @@ _Estoy en constante aprendizaje🌱_
 
 ## Proyectos 📋
 
-- [Charger Ecommerce](https://github.com/msebass1/charger-ecommerce): 
-
-
-Desarrolle un e-commerce completo, durante la parte final del Bootcamp SoyHenry:
+- [Charger Ecommerce](https://github.com/msebass1/charger-ecommerce): Desarrollé un e-commerce completo, durante la parte final del Bootcamp SoyHenry:
 - Equipo de 5 personas
 - SCRUM
 - React, Express, Postgres 
