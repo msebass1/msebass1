@@ -6,13 +6,16 @@ _Estoy en constante aprendizaje🌱_
 
 ## Proyectos 📋
 
-Desarrollé un e-commerce completo, durante la parte final del Bootcamp SoyHenry:
+1. Desarrollé un e-commerce completo, durante la parte final del Bootcamp SoyHenry:
 
-- [Charger Ecommerce](https://github.com/msebass1/charger-ecommerce): 
+- [Charger Ecommerce](https://github.com/msebass1/charger-ecommerce) 
 - Equipo de 5 personas
 - SCRUM
-- React, Express, Postgres 
+- React, Express, Postgres
 
+2.Vimpire calendar
+-[vimpire-calendar](https://github.com/msebass1/Vimpare-Calendar)
+- Apllicaccion web calendario sincronizada con la api de google calendar.
 <!--
 **msebass1/msebass1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
