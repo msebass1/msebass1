@@ -13,7 +13,7 @@ _Estoy en constante aprendizaje🌱_
 - SCRUM
 - React, Express, Postgres
 
-2.Vimpire calendar
+2. Vimpire calendar
 -[vimpire-calendar](https://github.com/msebass1/Vimpare-Calendar)
 - Apllicaccion web calendario sincronizada con la api de google calendar.
 <!--
